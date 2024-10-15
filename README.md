@@ -10,3 +10,13 @@ I want to create a piece of software that has the following features
 
 ## Early Design Mockup (Stage Manager View)
 ![StageHand UI V1](https://github.com/user-attachments/assets/69c91ee3-bbfe-4684-814a-ae7812f114ac)
+
+## Features to implement
+ - OSC connection to QLab (partially completed)
+ - Websocket-based web page for stage manager to view what is going on
+ - OSC connection for X32/M32 (to view mic mute status)
+ - OSC connection to TheatreControl (to view cue info)
+ - OSC connection to EOS (for lighting cues)
+ - Add stopwatch functionality
+ - Add webpage for operators to view stopwatch.
+ - Add other sound/lighting consoles
